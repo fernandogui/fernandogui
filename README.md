@@ -1,7 +1,4 @@
-### Olá! 👋
+### Olá! Me Chamo Fernando Guimarães.
 
-Estudando Python.
-
-Contate-me: contatofernandogui@gmail.com
-
-Ele/Dele.
+- Aprendendo Python.
+- Ele/Dele.
